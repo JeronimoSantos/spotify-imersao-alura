@@ -1,5 +1,6 @@
 # Imersão Alura - Spotify 🎵
 
+## Dia 1
 Uma aula mais voltada para revisar alguns conseitos e tags sobre "HTML" e "CSS."
 
 Também foi explicado de uma forma simples as diferenças do: 
@@ -11,3 +12,18 @@ Estilo do site.
 Dinamicidade do site.
 
 Começamos o projeto pela sidebar navigation para dar início ao projeto por partes.
+
+## Dia 2
+Na aula de hoje focamos em desenvolver toda a parte do menu lateral, começando pela `section class="library"`.
+
+Depois continuamos desenvolvendo as `section class="playlist"`, `section class="cookies"` e `section class="languages`.
+
+Por fim como desafio foi proposto de criamos o footer.
+
+Aprendendo mais sobre CSS como:
+- posicionamento
+- Layouts 
+- Flexbox.
+
+## IMG Progresso
+![alt text](image.png)
