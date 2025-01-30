@@ -13,6 +13,9 @@ Dinamicidade do site.
 
 Começamos o projeto pela sidebar navigation para dar início ao projeto por partes.
 
+## IMG Progresso
+![alt text](image-1.png)
+
 ## Dia 2
 Na aula de hoje focamos em desenvolver toda a parte do menu lateral, começando pela `section class="library"`.
 
