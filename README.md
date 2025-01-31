@@ -30,3 +30,14 @@ Aprendendo mais sobre CSS como:
 
 ## IMG Progresso
 ![alt text](image.png)
+
+## Dia 3
+Nesta aula, nós fomos mais fundo sobre CSS, mexendo com as variáveis; entendendo conceitos de responsividade e, também, criando o menu superior.
+
+Aprendi messa aula sobre:
+- Refatoramos o Código
+- Conseitos de Responsividade
+- Estruturas de Pastas
+
+## IMG Progresso
+![alt text](image-2.png)
