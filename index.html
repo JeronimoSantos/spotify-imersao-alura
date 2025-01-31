@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="./assets/icons/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="./src/assets/icons/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" href="reset.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./src/styles/reset.css">
+    <link rel="stylesheet" href="./src/styles/vars.css">
+    <link rel="stylesheet" href="./src/styles/sidebar-footer.css">
+    <link rel="stylesheet" href="./src/styles/main-content.css">
     <title>Imersão Spotify</title>
 </head>
 <body>
@@ -14,7 +16,7 @@
         <nav class="sidebar-navigation">
             <section class="logo">
                 <a href="">
-                    <img src="./assets/icons/logo-spotify.png" alt="logo do spotify">
+                    <img src="./src/assets/icons/logo-spotify.png" alt="logo do spotify">
                 </a>
             </section>
                 <ul>
@@ -65,6 +67,43 @@
             </section>
         </section>
     </section>
+
+    <main>
+        <section class="main-container">
+            <nav class="header-navigation">
+                <section class="navigation">
+                    <button class="arrow-left">
+                        <img src="./src/assets/icons/small-left.png" alt="Seta esquerda">
+                    </button>
+
+                    <button class="arrow-right">
+                        <img src="./src/assets/icons/small-right.png" alt="Seta direita">
+                    </button>
+                </section>
+
+                <section class="header-search">
+                    <img src="./src/assets/icons/search.png" alt="">
+                    <input type="text" maxlength="800" id="search-input" placeholder="Que música você quer ouvir?">
+                </section>
+
+                <section class="header-login">
+                    <button class="subscribe">Inscreva-se</button>
+                    <button class="login">Entrar</button>
+                </section>
+            </nav>
+
+            <section class="playlist-container">
+                <section class="result-playlists">
+                    <section class="playlists">
+                        <h1 class="greeting">Boas Vindas</h1>
+                        <h2 class="greeting-subtitle">Navegar por todas as seções</h2>
+                    </section>
+                    
+                </section>
+            </section>
+
+        </section>
+    </main>
 
     <footer class="rodape">
         <section class="text">
